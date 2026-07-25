@@ -1,0 +1,10 @@
+{
+  "source_file": "/Users/scotthenderson/Full-time Job Search/GIS/Personal Projects/JetLagS18-LakesRoute/Analysis/layers/Lakes-30MileBuffer-NotNull-NotUnamed-1AcreorMore.gpkg",
+  "layer_index": 0,
+  "row_count": 1413,
+  "column_count": 47,
+  "crs": "COMPD_CS[\"NAD83 / UTM zone 15N + NAD_1983\",PROJCS[\"NAD83 / UTM zone 15N\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.257222101],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",-93],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"26915\"]],VERT_CS[\"NAD_1983\",VERT_DATUM[\"D_North_American_1983\",2005],UNIT[\"metre\",1],AXIS[\"Ellipsoidal height\",UP],AUTHORITY[\"ESRI\",\"115702\"]]]",
+  "geometry_type_counts": {
+    "MultiPolygon": 1413
+  }
+}

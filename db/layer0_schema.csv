@@ -1,0 +1,48 @@
+column,dtype
+objectid,int64
+fw_id,float64
+dowlknum,str
+pw_basin_name,str
+pw_parent_name,str
+pw_sub_name,str
+sub_flag,str
+wb_class,str
+lake_class,float64
+acres,float64
+shore_mi,float64
+center_utm_x,float64
+center_utm_y,float64
+cty_name,str
+dnr_region,int32
+fsh_office,str
+outside_mn,str
+delineated_by,str
+delineation_date,"datetime64[ms, UTC]"
+delineation_src,str
+delineation_notes,str
+approved_by,str
+approval_date,"datetime64[ms, UTC]"
+approval_notes,str
+has_flag,str
+flag_type,str
+publish_date,"datetime64[ms, UTC]"
+lksdb_basin_id,int32
+has_wld_flag,object
+wld_flag_type,object
+unique_id,float64
+created_user,str
+created_date,"datetime64[ms, UTC]"
+last_edited_user,str
+last_edited_date,"datetime64[ms, UTC]"
+ow_use,str
+pwi_class,str
+map_display,str
+map_label,str
+shape_Length,float64
+shape_Area,float64
+unique_guid,str
+INSIDE_X,float64
+INSIDE_Y,float64
+in_lakefinder,str
+has_hydrograph,str
+geometry,geometry
